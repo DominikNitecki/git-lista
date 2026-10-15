@@ -1,1 +1,4 @@
+ HEAD
 tekst z galezi main
+tekst z galezi poprawka
+poprawka
