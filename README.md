@@ -1,1 +1,1 @@
-# git-lista
+# git-listadodatkowy opis w pliku README
